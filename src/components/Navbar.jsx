@@ -27,7 +27,7 @@ const Navbar = () => {
           duration={500}
           className="cursor-pointer"
         >
-          <h1 className="text-2xl font-bold drop-shadow-md">WellnessVista.</h1>
+          <h1 className="text-2xl font-bold drop-shadow-md">GentleCare</h1>
         </Link>
 
         {/* Desktop Menu */}
